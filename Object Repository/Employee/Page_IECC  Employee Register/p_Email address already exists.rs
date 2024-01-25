@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Email address already exists</name>
+   <tag></tag>
+   <elementGuidId>2280f1fd-8cd8-4090-b7b0-4a9436fce90d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.MuiTypography-body1.css-85sszk</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f5dee54f-1e73-4bdc-b51d-88a158048766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 css-85sszk</value>
+      <webElementGuid>837456e3-0813-477c-ac29-1d5e32bb5797</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email address already exists.</value>
+      <webElementGuid>2b0fed69-4ba1-4124-ba9f-24c357b85b39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;SnackbarContainer-top SnackbarContainer-right SnackbarContainer-root SnackbarContainer-rootDense css-uwcd5u&quot;]/div[@class=&quot;MuiCollapse-root MuiCollapse-vertical MuiCollapse-entered css-c4sutr&quot;]/div[@class=&quot;MuiCollapse-wrapper MuiCollapse-vertical css-hboir5&quot;]/div[@class=&quot;MuiCollapse-wrapperInner MuiCollapse-vertical css-8atqhb&quot;]/div[@class=&quot;SnackbarItem-wrappedRoot css-d9txst&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg css-gm4kco&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-85sszk&quot;]</value>
+      <webElementGuid>d6c822df-17d1-4589-aac4-899b3d86a897</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div/div/div/p</value>
+      <webElementGuid>cc0c1054-b184-49cb-a7dd-3a6781a057c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/p</value>
+      <webElementGuid>4ee4675f-da4f-4e53-9b0b-c19747418d92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Email address already exists.' or . = 'Email address already exists.')]</value>
+      <webElementGuid>a5dc1681-b467-4f8b-b694-aa9246d8ac80</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

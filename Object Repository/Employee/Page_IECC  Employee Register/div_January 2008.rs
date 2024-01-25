@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_January 2008</name>
+   <tag></tag>
+   <elementGuidId>8842df0e-bbe9-4bd5-94f2-a5410f68aea3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiPickersCalendarHeader-labelContainer.css-195v8y8</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div[2]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e96e659a-c928-4684-b0b5-be2a7aac408d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>d5672c72-14a2-4cb2-b980-69d454e7147d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>polite</value>
+      <webElementGuid>b92b40cf-f540-45c7-8897-7699d5473c52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiPickersCalendarHeader-labelContainer css-195v8y8</value>
+      <webElementGuid>d02451c3-5484-4699-b944-0dd2915344db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>January 2008</value>
+      <webElementGuid>039e1482-d871-473f-a936-e71a10f7edc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[@class=&quot;pr-0&quot;]/div[@class=&quot;MuiPickersPopper-root css-1mtsuo7 MuiPopperUnstyled-root&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPickersPopper-paper css-1qf6zfl&quot;]/div[@class=&quot;MuiCalendarOrClockPicker-root css-j7qwjs&quot;]/div[@class=&quot;css-epd502&quot;]/div[@class=&quot;MuiCalendarPicker-root css-1brzq0m&quot;]/div[@class=&quot;MuiPickersCalendarHeader-root css-1dozdou&quot;]/div[@class=&quot;MuiPickersCalendarHeader-labelContainer css-195v8y8&quot;]</value>
+      <webElementGuid>4efce896-b1e5-491f-b950-f14dd0c7d045</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div/div</value>
+      <webElementGuid>27a3fc6a-83be-471c-8f06-2151bce8c9db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'January 2008' or . = 'January 2008')]</value>
+      <webElementGuid>a992a8ec-1a9c-4840-926f-9037fb4e38d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
